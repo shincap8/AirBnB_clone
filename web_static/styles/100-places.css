@@ -80,3 +80,51 @@
 .user{
 	margin-top: 20px;
 }
+
+article .amenities, article .reviews{
+    margin-top: 40px;
+}
+
+article .amenities h2, article .reviews h2{
+    font-size: 16px;
+    border-bottom: solid 1px #DDDDDD;
+    text-align: left;
+}
+
+article .amenities ul, article .reviews ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+article .reviews h3{
+	font-size: 14px;
+	margin-bottom: 0.2rem;
+}
+
+article .reviews p{
+	font-size: 12px;
+	margin-top: 0px;
+}
+
+.pet{
+	background-image: url(../images/icon_pets.png);
+}
+
+.tv{
+	background-image: url(../images/icon_tv.png);
+}
+
+.wifi{
+	background-image: url(../images/icon_wifi.png);
+}
+
+.pet, .wifi, .tv{
+	background-repeat: no-repeat;
+	background-position-x: left;
+	background-position-y: center;
+	background-size: contain;
+}
+
+.amenities li{
+	padding-left: 1.5rem;
+}
