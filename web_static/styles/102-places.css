@@ -143,4 +143,12 @@ article .reviews p{
 	.max_guest, .number_bathrooms, .number_rooms{
 		width: 33%;
 	}
+
+	.places h1{
+		text-align: center;
+	}
+
+	.places h2{
+		text-align: left;
+	}
 }
