@@ -41,6 +41,10 @@
 	margin-left: 40px;
 }
 
+.locations h2{
+	font-size: 16px;
+}
+
 .locations h4, .amenities h4{
 	font-weight: 400;
 	font-size: 14px;
