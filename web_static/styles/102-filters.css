@@ -48,6 +48,10 @@
 	margin-left: 40px;
 }
 
+.locations .popover h2{
+	font-size: 16px;
+}
+
 .locations:hover .popover, .amenities:hover .popover{
 	display: block;
 }
